@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://holtzrov.github.io/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/app/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/assets/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/css/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/includes/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/item/holtzrov.txt.gz
+Sitemap: https://holtzrov.github.io/src/holtzrov.txt.gz
